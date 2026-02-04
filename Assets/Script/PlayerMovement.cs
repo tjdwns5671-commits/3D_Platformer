@@ -33,7 +33,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 spawnPoint; // 리스폰 포인트
     private int animIDSpeed; // 애니메이션 해시값 - Speed;
     private int animIDJump; // 애니메이션 해시값 - Jump;
-
+    // 플레이어 관련 주석을 추가함.
 
     void Start()
     {
